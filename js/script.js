@@ -69,3 +69,4 @@ function showMore() {
        "I'm always looking to grow, collaborate, and apply my skills to meaningful projects. " +
        "Feel free to reach out to me if you have any questions or would like to connect!");
 }
+
